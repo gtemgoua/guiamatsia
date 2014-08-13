@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The First ones
+comments: true
 ---
 
 As the title indicates, this post is about the first kids of both Louis and Irene.
