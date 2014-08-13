@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
+title:            Home
 tagline:          Meet the Guiamatsias
 url:              http://guiamatsia.com
 paginate:         1
