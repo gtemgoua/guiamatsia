@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Poole
+tagline:          Meet the Guiamatsias
+url:              http://guiamatsia.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Louis Guiamatsia
+  url:            https://twitter.com/lguiamatsia
+  email:          louis.guiamatsia@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/gtemgoua/guiamatsia
+
+
+# This is the list of pages to incldue in the header of the website.
+pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
