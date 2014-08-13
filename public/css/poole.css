@@ -275,7 +275,7 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 1rem;
   padding: 1rem;
   color: #717171;
-  background-color: #f9f9f9;
+  /*background-color: #f9f9f9;*/
 }
 
 
@@ -320,6 +320,17 @@ tbody tr:nth-child(odd) th {
   letter-spacing: 0;
 }
 
+
+.jumbotron {
+    background-image: url('../../images/landscape.jpg');
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 
 /*
  * Posts and pages
