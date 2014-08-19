@@ -251,6 +251,17 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+#container {
+    display: table;
+    }
+
+  #row  {
+    display: table-row;
+    }
+
+  #left, #right, #middle {
+    display: table-cell;
+    }
 
 /*
  * Custom type
@@ -275,7 +286,7 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 1rem;
   padding: 1rem;
   color: #717171;
-  /*background-color: #f9f9f9;*/
+  background-color: #f9f9f9;
 }
 
 
@@ -322,7 +333,7 @@ tbody tr:nth-child(odd) th {
 
 
 .jumbotron {
-    background-image: url('../../images/landscape.jpg');
+    background-image: url('../../images/simple-wallpaper-for-walls-uftsm.jpg');
     height: 100%;
     width: 100%;
     position: fixed;
@@ -401,7 +412,8 @@ tbody tr:nth-child(odd) th {
   margin-left: -1rem;
   margin-right: -1rem;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  color: #ccc;
+  color: #303030;
+  /*color: #ccc;*/
   text-align: center;
 }
 
